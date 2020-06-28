@@ -1,6 +1,5 @@
 ## ScreenShots of running project.
-![Alt text](sample/Sample1.png?raw=true "Title")
-![Alt text](sample/Sample2?raw=true "Title")
+![alt text](https://github.com/rishi1969/Weather-API-React/master/sample/Sample!.PNG?raw=true)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
