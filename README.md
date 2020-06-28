@@ -1,6 +1,5 @@
 ## ScreenShots of running project.
-![alt text](https://github.com/rishi1969/Weather-API-React/master/sample/Sample!.PNG?raw=true)
-
+<img src="https://user-images.githubusercontent.com/62803175/85955517-bde29000-b99c-11ea-911c-5952accd5b97.PNG" width="90%"></img> <img src="https://user-images.githubusercontent.com/62803175/85955519-c1761700-b99c-11ea-9e8c-b67173605b57.PNG" width="40%"></img> 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
